@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <offers>
 	<offer sku="117419079_633504849">
 		<model>Кухонный гарнитур СВ Мебель Денвер, 200x60x156.2 см, серый, бежевый</model>
@@ -47,7 +47,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="20"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">6730</cityprice>
+			<cityprice cityId="351010000">5495</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="121977772_508394231">
@@ -87,7 +87,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">65000</cityprice>
+			<cityprice cityId="351010000">5295</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="119985746_644263006">
@@ -117,7 +117,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">107480</cityprice>
+			<cityprice cityId="351010000">103765</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="113254438_914449805">
@@ -167,7 +167,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="19"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">8790</cityprice>
+			<cityprice cityId="351010000">6165</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="018532024">
@@ -347,7 +347,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">99998</cityprice>
+			<cityprice cityId="351010000">99984</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="105591005_122408691">
@@ -387,7 +387,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">32990</cityprice>
+			<cityprice cityId="351010000">32595</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="102202053_176504102">
@@ -417,7 +417,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">89545</cityprice>
+			<cityprice cityId="351010000">74795</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="109774022_923481197">
@@ -427,7 +427,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">69900</cityprice>
+			<cityprice cityId="351010000">68994</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="080744500">
@@ -517,7 +517,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="20"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">84900</cityprice>
+			<cityprice cityId="351010000">6005</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="120860175_140132387">
@@ -587,7 +587,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">21990</cityprice>
+			<cityprice cityId="351010000">21895</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="138785072_565160341">
@@ -607,7 +607,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="20"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">9000</cityprice>
+			<cityprice cityId="351010000">6165</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="132141658_545451200">
@@ -677,7 +677,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">15195</cityprice>
+			<cityprice cityId="351010000">13130</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="758554170">
@@ -847,7 +847,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">77570</cityprice>
+			<cityprice cityId="351010000">77095</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="129129622_086922812">
@@ -907,7 +907,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">86555</cityprice>
+			<cityprice cityId="351010000">85915</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="105591007_981686764">
@@ -987,7 +987,7 @@
 			<availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="19"/>
 		</availabilities>
 		<cityprices>
-			<cityprice cityId="351010000">9800</cityprice>
+			<cityprice cityId="351010000">6165</cityprice>
 		</cityprices>
 	</offer>
 	<offer sku="100521183_003427343">
