@@ -10,7 +10,7 @@
                 <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="351010000">111995</cityprice>
+                <cityprice cityId="351010000">108995</cityprice>
             </cityprices>
         </offer>
         <offer sku="118716132">
@@ -850,7 +850,7 @@
                 <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
             </availabilities>
             <cityprices>
-                <cityprice cityId="351010000">77395</cityprice>
+                <cityprice cityId="351010000">77095</cityprice>
             </cityprices>
         </offer>
         <offer sku="129129622_086922812">
