@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-16 15:23">
+    <company>30291358</company>
+    <merchantid>30291358</merchantid>
+    <offers>
+        <offer sku="140873451_271154644">
+            <model>Офисное кресло ZETA Кресло мод 815 (ВИ),, черный</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">56500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="115972872_269601260">
+            <model>Обувница ЗМИ 65x30x48 см, металл</model>
+            <brand>zmi</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="0.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">10000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="145845408_573019534">
+            <model>Обувница ZETA 26x50x50 см, дерево</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">14390</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="136128698_451700062">
+            <model>Шкаф-купе ZETA Шкаф-купе ШКП 1, 170x220х59 см, коричневый, бежевый</model>
+            <brand>ZETA</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">165795</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="847473190">
+            <model>Стул пластиковый "Микки" белый м/п</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">12400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="104250176_861527436">
+            <model>ZETA таз МП-ТВ-946198 120 л</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">6500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="138781145_135085059">
+            <model>ZETA стул JTS-5021 коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">5275</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="103443608_548131581">
+            <model>ЗМИ Контур малый ВНП 398</model>
+            <brand>zmi</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">9920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="154871216_296488982">
+            <model>Кухонный гарнитур ZETA , 160x216х60 см, ЛДСП, белый</model>
+            <brand>ZETA</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">98000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="122235072_983024145">
+            <model>ZETA Кухонный гарнитур "Босфор" (2м) Дуб Венге/Дуб Сонома (РФ), 200x60x216.2 см, коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">103770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="106897600_250164317">
+            <model>ЗМИ ВГВ22М; Валенсия 22М, металл, 31x162 см, черный</model>
+            <brand>zmi</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">19895</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="119985746_644263006">
+            <model>ZETA складной Стол складной 80*150 дерево (Вьетнам), 150x80x75 см, коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">98630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="464130306">
+            <model>Пуфик мод IKE24-016 (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">38165</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="018532024">
+            <model>Дерево искусственные мод.YD28076 (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">13245</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="271659249">
+            <model>Диван Классик 25</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">180980</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="104723046_145858435">
+            <model>М-ПЛАСТИКА кашпо 3185, полипропилен</model>
+            <brand>М-ПЛАСТИКА</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">13965</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140306167_202384794">
+            <model>ТВ-тумба напольная Денвер, 200.1x35.5x34.6 см, графит, серый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">34395</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137476360_530107523">
+            <model>Стул ZETA Стул мод D-859 бежев. (ВИ), бежевый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">21950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="144324884_312567407">
+            <model>Компьютерное кресло ZETA 702, черный</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">28770</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="116543198_925908923">
+            <model>ZETA КГ 2, 200x60x156.2 см, бежевый, темно-коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">136900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="100431564_099487939">
+            <model>ZETA Джеф №4 белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">9970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="233817340">
+            <model>Распашной шкаф ZETA денвер, 80x205х46 см, серый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">50310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="106677975_662931014">
+            <model>IDEA кашпо Ротанг, пластик</model>
+            <brand>IDEA</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">9000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="131805176_525042943">
+            <model>Кухонный гарнитур Денвер, 200x214.2х60 см, ЛДСП, белый, коричневый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">106665</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="739542363">
+            <model>Стул Premium</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">14490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="117081911_096411107">
+            <model>Шкаф-купе ШКП 3 SV-0040, 200.1x220х60 см, белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">193995</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="148414798_756962705">
+            <model>Кухонный гарнитур TURAN HOME , 160x220х44 см, ЛДСП, белый</model>
+            <brand>turan-home</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">104400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="151247718_891281408">
+            <model>Мусорное ведро Planet с крышкой UP295-212 50 л</model>
+            <brand>Planet</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">8325</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121292840_721598510">
+            <model>ZETA Кровать 1,6*2,0 МС "Денвер" мод 00-00111537 полутораспальная, 160x200 см (без матраса, без подъёмного механизма) серый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">42490</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="129400233_785944119">
+            <model>Распашной шкаф ZETA ШК 2, 79.2x212х50 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">56310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="080744500">
+            <model>Кресло подвесное мод JX-BZ-19-DL (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">110665</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="117205411_498212428">
+            <model>Распашной шкаф ZETA ШК 1, 160x205х51.5 см, светло серый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">105350</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="831012235">
+            <model>Дерево искусственные мод.YD28090 (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">19630</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="108350141_073838725">
+            <model>ZETA 147027, черный</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">21835</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121102814_812677605">
+            <model>Распашной шкаф СВ Мебель "ШК 5" 00-00111947, 160x221.5х50.6 см, графит, серый</model>
+            <brand>sv-mebel-</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">115150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="135865608_608470420">
+            <model>Стул ZETA C-953-12F, 87x52x42 см, черный 1 шт.</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">21000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="146347220_867901025">
+            <model>Вешалка напольная Авиньон ИМП-ТВ-129648, ЛДСП, 90x221.6 см, графит, коричневый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">78000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="120860175_140132387">
+            <model>Барный стул ZETA Стул мод Franklin-01 (ВИ),, 140x39x33 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="4.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">19655</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="119304316_998654304">
+            <model>Кухонный гарнитур ZETA Токио, 160x214.2х60 см, ЛДСП, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">105000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="100640708_739351574">
+            <model>М-ПЛАСТИКА кашпо Дюна МП3403, пластик</model>
+            <brand>М-ПЛАСТИКА</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">6500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="104313304_215223443">
+            <model>IDEA корзина для белья 44x36x52 см, пластик</model>
+            <brand>IDEA</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">8000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="332861773">
+            <model>Кресло мод SLRC-02 (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">21835</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="374258201">
+            <model>Стул мод 69 (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="20.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">50290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="868090219">
+            <model>Стул Classic</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">5115</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="737530336">
+            <model>Дерево искусственные мод.YD28090 (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">35385</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="101580645_516717258">
+            <model>Вешалка напольная ЗМИ Радуга 1 ВНП 298, металл, 82x150 см, черный</model>
+            <brand>zmi</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">10430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="140496666_748149334">
+            <model>Ортопедическая подушка ZETA 40x60 см, холлофайбер</model>
+            <brand>ZETA</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">8925</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="136130168_736735899">
+            <model>Стол письменный ZETA без ящиков МС Токио, 75х52x75 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">13135</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="108527714_987590276">
+            <model>Вешалка ЗМИ Римини 2М ВКР2М ГР, металл, 47x114 см, черный</model>
+            <brand>zmi</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">16850</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137048247_910865132">
+            <model>Стеллаж напольный Кул-122, 70x38.5x201 см, светло-коричневый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">33405</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="550919337">
+            <model>Вешалка детская «Сердечко», 415 × 305 × 840 мм,</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">11085</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="134901512_818817548">
+            <model>IDEA кашпо М 3403 - Кашпо ДЮНА D460мм H450мм 50л, полипропилен, пластик</model>
+            <brand>IDEA</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">6500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="128878058_157434267">
+            <model>Кухонный гарнитур ZETA КГ-1, 160x198.2х60 см, ЛДСП, серый</model>
+            <brand>ZETA</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">118800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="115222094_319921851">
+            <model>Кухонный гарнитур ZETA Токио, 200x210х60 см, ЛДСП, белый, светло-коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">110100</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="106897605_702572474">
+            <model>ЗМИ ВГВ32М; Валенсия 32М, металл, 91.5x162 см, белый</model>
+            <brand>zmi</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">21810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121818885_029485263">
+            <model>ZETA контейнер Контейнер для хранения 100л.(на колесах), пластик</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">6660</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="151245398_586682734">
+            <model>Мусорное ведро Planet с крышкой UP300-212 70 л</model>
+            <brand>Planet</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">10790</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="117081899_348653936">
+            <model>Шкаф-купе ШКП 3, 160.1x220х60 см, белый</model>
+            <brand>Без бренда</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">169820</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="868084825">
+            <model>Дерево искусственные мод.YD28078 (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">12110</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="116537522_046375692">
+            <model>Распашной шкаф ZETA Денвер, 160.1x205.2х46.2 см, темно-серый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">96500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="138781220_533660453">
+            <model>ZETA стул JTS-5021 коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="5.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">4800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="882727811">
+            <model>Кресло подвесн.105*120*70см мод JX-BZ-19-L (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">77240</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="117082032_548334395">
+            <model>Вешалка напольная Денвер SV-0046, ЛДСП, 100.1x199.9 см, графит</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">34450</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="493404427">
+            <model>ZETA денвер , 160x60x214 см, серый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">101200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137779708_029609903">
+            <model>Шкаф-купе СВ Мебель ШКП 3 МАКС Меланж, 200.1x220х60 см, кремовый</model>
+            <brand>sv-mebel-</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">208020</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="115222537_234789927">
+            <model>Распашной шкаф ZETA ШК 1, 160x205х52 см, светло-коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">109115</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="148668300_301756950">
+            <model>Распашной шкаф Авиньон, 90x221.6х50.6 см, коричневый, графит</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">73150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="100670195_471540712">
+            <model>ZETA C08-1 ВИ черный</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">15525</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="139077070_585892668">
+            <model>Стул ZETA SC-015C, 76.5x45x57 см, черный 1 шт.</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">9115</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="003591461">
+            <model>Стол 90*90 квадрат. мод 90-2</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">54860</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="308497983">
+            <model>Кресло подвесн.130*140*80 см мод JX-BZ-94</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">183375</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="122708053_615997567">
+            <model>Распашной шкаф СВ Мебель "ШК 5" Меланж, 160.1x221.6х50.6 см, кремовый, бежевый</model>
+            <brand>sv-mebel-</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">115150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121300647_129237788">
+            <model>Распашной шкаф ZETA Шкаф трехстворчатый МС "Токио" мод 00-00107242 , 120x210х52 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">85920</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="128406350_023183561">
+            <model>Распашной шкаф ZETA ШК 2, 79.2x212х50 см, светло-коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">55650</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="424550988">
+            <model>Диван Афина 1</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">149810</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="410032672">
+            <model>Кресло подвесн.105*125*70 см мод JX-BZ-62 (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">104520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="129149281_057567915">
+            <model>Распашной шкаф ZETA ШК 8 (Кул-125/1), 80x200х50 см, светло-коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">56400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="130659841_528541068">
+            <model>Стул ZETA мод 69 серый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="12.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">50290</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="818698533">
+            <model>Кресло подвесн.105*125*71 см мод JX-BZ-46 (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">118150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="163831154">
+            <model>Распашной шкаф 163831154, 80.1x210х51.6 см, белый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">50310</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="128897492_480959246">
+            <model>Компьютерное кресло ZETA мод SLRC-14, черный</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">50710</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="139097882_084810785">
+            <model>Стул ZETA SC-017 серебристый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="13.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">17600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="16700605_675515322">
+            <model>Стул ZETA Кантри, 88x49x45 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">11560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="131808559_064165665">
+            <model>Барный стул ZETA Н-33, 110x40x40 см, серый 1 шт.</model>
+            <brand>ZETA</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">15000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137048249_064056452">
+            <model>Распашной шкаф Кул-125/1, 80x201х50 см, белый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">56400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="135065121_774412695">
+            <model>Вешалка напольная ЗМИ Римини 2М, металл, 47x114 см, белый</model>
+            <brand>zmi</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">17370</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="076818271">
+            <model>Диван мод "Нео-16М"</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">188745</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="118735468_394348341">
+            <model>СВ Мебель Денвер 00-00111543, 138.1x39x75.4 см, серый</model>
+            <brand>sv-mebel-</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">40500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="974327322">
+            <model>Стол письменный ZETA "Денвер" Стол письменный (0,9м) Белый,90х50x75 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">21900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="139716867_692147891">
+            <model>Стул ZETA Cтул мод D859 пласт. бел. (ВИ), белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">21950</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="100695071_244680764">
+            <model>Офисный стул ZETA СМ-6, черный</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="19.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">7200</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="107773169_062080978">
+            <model>Стул ZETA СМ-7, 82x35x46 см, черный</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="18.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">7400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="239452135">
+            <model>Вешалка напольная ZETA Денвер, ЛДСП, 100x200 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">34400</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121977772_508394231">
+            <model>ZETA КГ 9, 200x60x214 см, серый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">106900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="246518349">
+            <model>ТВ-тумба напольная ZETA тумба под ТВ, 200x35.5x34.5 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">29340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="131436252_767497582">
+            <model>Стол компьютерный ZETA Стк-11, 100х57x75 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">18015</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="129854876_046793875">
+            <model>Стол компьютерный ZETA СТК 1, 113х49x103 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">21000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="206896170">
+            <model>Кресло мод.707 (ВИ)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">34300</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="649293090">
+            <model>Модульная система "Токио" Кровать одинарная (0,9*2,0) Белый текстурный (с основанием)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">32270</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="130769459_491522713">
+            <model>Тумба офисная СВ Мебель ТБ 13 , 42x60x55 см колесики</model>
+            <brand>sv-mebel-</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">18990</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121298510_856415997">
+            <model>ZETA классический Стол обеденный СО 1 мод 00-00105457 бел. , 80x60x60 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">16800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="129056818_544014054">
+            <model>Табурет ZETA Табурет "Башня" , 43x34x35 см, черный, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="4.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">8680</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="803504904">
+            <model>Бак 400л.горизонт.(3-слойный)(JIP Узбекистан)</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">35000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="107575901_627878907">
+            <model>Вешалка ZETA Радуга 1 ВНП 298, металл, 82x152 см, черный</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">10430</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="141075829_834054066">
+            <model>Распашной шкаф ШК-5, 120.1x221.6х50.6 см, белый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">85065</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="129129622_086922812">
+            <model>Распашной шкаф СВ Мебель ШК 5, 160x221.6х50.6 см, белый</model>
+            <brand>sv-mebel-</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">115150</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="100485423_439149212">
+            <model>Стул ZETA Кантри PTZ-022710-08, 88.5x49x45 см, серый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">11560</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="136554327_730058562">
+            <model>Распашной шкаф ШК 12, 120x190.5х46.6 см, белый, коричневый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">68900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="136131982_194706051">
+            <model>Обеденный стол ZETA Стол обеденный СО 3 раскладной, 75х75x75 см, ЛДСП, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">20500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="749133109">
+            <model>Кровать ZETA Некст 1 двуспальная, 160x200 см (без матраса, без подъёмного механизма) белый, золотой</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">57600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="811585783">
+            <model>Кровать ZETA Милан двуспальная, 160x200 см (без матраса, без подъёмного механизма) белый, светло-коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">106970</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="352386622">
+            <model>Кровать ZETA МСП 1 односпальная, 90x200 см (без матраса, без подъёмного механизма) белый, светло-коричневый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">38340</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137768405_482106255">
+            <model>Стол письменный СВ Мебель Денвер 1, 90х50x75.4 см, графит</model>
+            <brand>sv-mebel-</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">21900</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="115222548_536705006">
+            <model>Стол письменный ZETA Токио, 86х50x75 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">20800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="122234374_995478824">
+            <model>Кухонный гарнитур ZETA , 120x156.2х60 см, ЛДСП, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">84465</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="119304315_768362250">
+            <model>Кухонный гарнитур ZETA Денвер, 200x215х60 см, ЛДСП, серый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">122145</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121240570_524101372">
+            <model>ZETA КМ 1 00-00107045 , 70x37x86 см, белый</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">25000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="137624327_585827183">
+            <model>Офисный стеллаж ZETA СТЖ 10, 70х38.5х201 см</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">30725</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="719770883">
+            <model>Обеденный стол ZETA , 120х70x72 см, ЛДСП, мультиколор</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">27600</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="129951529_619742846">
+            <model>ZETA контейнер Контейнер 82 л пищ. с крышкой пищ. (на колесиках) м/п, 68x48x40 см, пластик</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">7800</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121362376_462016645">
+            <model>СВ Мебель Токио, 120.1x36.8x73.9 см, белый</model>
+            <brand>sv-mebel-</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+                <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">35500</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="503223356">
+            <model>503223356, 80x39x98 см, графит</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">33000</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="121835794_721999078">
+            <model>Табурет ИМП-ТВ-056116, 45x35x35 см, бежевый</model>
+            <brand/>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">5910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="107554713_458835240">
+            <model>Дом мебели табурет, массив дерева, 35x35x45 см, 689292</model>
+            <brand>dom-mebeli</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">5910</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="694301426">
+            <model>Табурет ZETA Табурет мягкий, 50x36x36 см, черный, темно-коричневый 1 шт.</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">9520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="288096845">
+            <model>Табурет ZETA Табурет мягкий, 50x36x36 см, черный, серый 1 шт.</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">9520</cityprice>
+            </cityprices>
+        </offer>
+        <offer sku="882095938">
+            <model>Табурет ZETA Табурет мягкий, 50x36x36 см, темно-серый 1 шт.</model>
+            <brand>zeta</brand>
+            <availabilities>
+                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
+            </availabilities>
+            <cityprices>
+                <cityprice cityId="351010000">9520</cityprice>
+            </cityprices>
+        </offer>
+    </offers>
+</kaspi_catalog>
