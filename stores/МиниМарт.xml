@@ -1092,16 +1092,6 @@
                 <cityprice cityId="351010000">35500</cityprice>
             </cityprices>
         </offer>
-        <offer sku="503223356">
-            <model>503223356, 80x39x98 см, графит</model>
-            <brand/>
-            <availabilities>
-                <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
-            </availabilities>
-            <cityprices>
-                <cityprice cityId="351010000">33000</cityprice>
-            </cityprices>
-        </offer>
         <offer sku="121835794_721999078">
             <model>Табурет ИМП-ТВ-056116, 45x35x35 см, бежевый</model>
             <brand/>
