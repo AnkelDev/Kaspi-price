@@ -1,1 +1,45 @@
-
+<?xml version='1.0' encoding='utf-8'?>
+<offers>
+  <offer sku="131805176_525042943">
+    <cityprice>95000</cityprice>
+  </offer>
+  <offer sku="115222548_536705006">
+    <cityprice>20799</cityprice>
+  </offer>
+  <offer sku="16700605_675515322">
+    <cityprice>8570</cityprice>
+  </offer>
+  <offer sku="128878058_157434267">
+    <cityprice>111635</cityprice>
+  </offer>
+  <offer sku="140496666_748149334">
+    <cityprice>7015</cityprice>
+  </offer>
+  <offer sku="129951529_619742846">
+    <cityprice>8600</cityprice>
+  </offer>
+  <offer sku="116543198_925908923">
+    <cityprice>109990</cityprice>
+  </offer>
+  <offer sku="104250176_861527436">
+    <cityprice>6200</cityprice>
+  </offer>
+  <offer sku="137476360_530107523">
+    <cityprice>21540</cityprice>
+  </offer>
+  <offer sku="137624327_585827183">
+    <cityprice>34565</cityprice>
+  </offer>
+  <offer sku="107773169_062080978">
+    <cityprice>7200</cityprice>
+  </offer>
+  <offer sku="139716867_692147891">
+    <cityprice>18730</cityprice>
+  </offer>
+  <offer sku="121298510_856415997">
+    <cityprice>16480</cityprice>
+  </offer>
+  <offer sku="121977772_508394231">
+    <cityprice>93295</cityprice>
+  </offer>
+</offers>
