@@ -1,18 +1,58 @@
 <?xml version='1.0' encoding='utf-8'?>
 <offers>
-  <offer sku="131805176_525042943">
-    <model>131805176_525042943</model>
-    <brand>ZETA</brand>
+  <offer sku="108527714_987590276">
+    <model>108527714_987590276</model>
+    <brand>ZETA Караганда</brand>
     <availabilities>
       <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
     </availabilities>
     <cityprices>
-      <cityprice cityId="351010000">95000</cityprice>
+      <cityprice cityId="351010000">16800</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="129854876_046793875">
+    <model>129854876_046793875</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">20005</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="122234374_995478824">
+    <model>122234374_995478824</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">83990</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="131436252_767497582">
+    <model>131436252_767497582</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">16965</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="118735468_394348341">
+    <model>118735468_394348341</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">40500</cityprice>
     </cityprices>
   </offer>
   <offer sku="115222548_536705006">
     <model>115222548_536705006</model>
-    <brand>ZETA</brand>
+    <brand>ZETA Караганда</brand>
     <availabilities>
       <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
     </availabilities>
@@ -20,19 +60,19 @@
       <cityprice cityId="351010000">20799</cityprice>
     </cityprices>
   </offer>
-  <offer sku="16700605_675515322">
-    <model>16700605_675515322</model>
-    <brand>ZETA</brand>
+  <offer sku="107575901_627878907">
+    <model>107575901_627878907</model>
+    <brand>ZETA Караганда</brand>
     <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6"/>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1"/>
     </availabilities>
     <cityprices>
-      <cityprice cityId="351010000">8570</cityprice>
+      <cityprice cityId="351010000">10430</cityprice>
     </cityprices>
   </offer>
   <offer sku="128878058_157434267">
     <model>128878058_157434267</model>
-    <brand>ZETA</brand>
+    <brand>ZETA Караганда</brand>
     <availabilities>
       <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
     </availabilities>
@@ -40,89 +80,69 @@
       <cityprice cityId="351010000">111635</cityprice>
     </cityprices>
   </offer>
-  <offer sku="140496666_748149334">
-    <model>140496666_748149334</model>
-    <brand>ZETA</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">6770</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="129951529_619742846">
-    <model>129951529_619742846</model>
-    <brand>ZETA</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">8600</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="116543198_925908923">
-    <model>116543198_925908923</model>
-    <brand>ZETA</brand>
+  <offer sku="106897605_702572474">
+    <model>106897605_702572474</model>
+    <brand>ZETA Караганда</brand>
     <availabilities>
       <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
     </availabilities>
     <cityprices>
-      <cityprice cityId="351010000">109990</cityprice>
+      <cityprice cityId="351010000">21810</cityprice>
     </cityprices>
   </offer>
-  <offer sku="104250176_861527436">
-    <model>104250176_861527436</model>
-    <brand>ZETA</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">6200</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="137476360_530107523">
-    <model>137476360_530107523</model>
-    <brand>ZETA</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">20574</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="137624327_585827183">
-    <model>137624327_585827183</model>
-    <brand>ZETA</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">34565</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="107773169_062080978">
-    <model>107773169_062080978</model>
-    <brand>ZETA</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="18"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">7200</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="139716867_692147891">
-    <model>139716867_692147891</model>
-    <brand>ZETA</brand>
+  <offer sku="136130168_736735899">
+    <model>136130168_736735899</model>
+    <brand>ZETA Караганда</brand>
     <availabilities>
       <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
     </availabilities>
     <cityprices>
-      <cityprice cityId="351010000">17890</cityprice>
+      <cityprice cityId="351010000">13000</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="136131982_194706051">
+    <model>136131982_194706051</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">20500</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="121362376_462016645">
+    <model>121362376_462016645</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">35500</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="135065121_774412695">
+    <model>135065121_774412695</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">16998</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="106897600_250164317">
+    <model>106897600_250164317</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">17489</cityprice>
     </cityprices>
   </offer>
   <offer sku="121298510_856415997">
     <model>121298510_856415997</model>
-    <brand>ZETA</brand>
+    <brand>ZETA Караганда</brand>
     <availabilities>
       <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
     </availabilities>
@@ -130,14 +150,44 @@
       <cityprice cityId="351010000">16480</cityprice>
     </cityprices>
   </offer>
-  <offer sku="121977772_508394231">
-    <model>121977772_508394231</model>
-    <brand>ZETA</brand>
+  <offer sku="137768405_482106255">
+    <model>137768405_482106255</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">21900</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="121240570_524101372">
+    <model>121240570_524101372</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">25000</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="119304315_768362250">
+    <model>119304315_768362250</model>
+    <brand>ZETA Караганда</brand>
     <availabilities>
       <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
     </availabilities>
     <cityprices>
-      <cityprice cityId="351010000">93295</cityprice>
+      <cityprice cityId="351010000">108990</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="119304316_998654304">
+    <model>119304316_998654304</model>
+    <brand>ZETA Караганда</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">104590</cityprice>
     </cityprices>
   </offer>
 </offers>
