@@ -1,3 +1,143 @@
 <?xml version='1.0' encoding='utf-8'?>
 <offers>
-  <offer sku="131805176_525042943"><model>131805176_525042943</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/></availabilities><cityprices><cityprice cityId="351010000">95000</cityprice></cityprices></offer><offer sku="115222548_536705006"><model>115222548_536705006</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/></availabilities><cityprices><cityprice cityId="351010000">20799</cityprice></cityprices></offer><offer sku="16700605_675515322"><model>16700605_675515322</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6"/></availabilities><cityprices><cityprice cityId="351010000">8570</cityprice></cityprices></offer><offer sku="128878058_157434267"><model>128878058_157434267</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/></availabilities><cityprices><cityprice cityId="351010000">111635</cityprice></cityprices></offer><offer sku="140496666_748149334"><model>140496666_748149334</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/></availabilities><cityprices><cityprice cityId="351010000">6770</cityprice></cityprices></offer><offer sku="129951529_619742846"><model>129951529_619742846</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6"/></availabilities><cityprices><cityprice cityId="351010000">8600</cityprice></cityprices></offer><offer sku="116543198_925908923"><model>116543198_925908923</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/></availabilities><cityprices><cityprice cityId="351010000">109990</cityprice></cityprices></offer><offer sku="104250176_861527436"><model>104250176_861527436</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10"/></availabilities><cityprices><cityprice cityId="351010000">6200</cityprice></cityprices></offer><offer sku="137476360_530107523"><model>137476360_530107523</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6"/></availabilities><cityprices><cityprice cityId="351010000">20574</cityprice></cityprices></offer><offer sku="137624327_585827183"><model>137624327_585827183</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/></availabilities><cityprices><cityprice cityId="351010000">34565</cityprice></cityprices></offer><offer sku="107773169_062080978"><model>107773169_062080978</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="18"/></availabilities><cityprices><cityprice cityId="351010000">7200</cityprice></cityprices></offer><offer sku="139716867_692147891"><model>139716867_692147891</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/></availabilities><cityprices><cityprice cityId="351010000">17890</cityprice></cityprices></offer><offer sku="121298510_856415997"><model>121298510_856415997</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/></availabilities><cityprices><cityprice cityId="351010000">16480</cityprice></cityprices></offer><offer sku="121977772_508394231"><model>121977772_508394231</model><brand>ZETA</brand><availabilities><availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/></availabilities><cityprices><cityprice cityId="351010000">93295</cityprice></cityprices></offer></offers>
+  <offer sku="131805176_525042943">
+    <model>131805176_525042943</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">95000</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="115222548_536705006">
+    <model>115222548_536705006</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">20799</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="16700605_675515322">
+    <model>16700605_675515322</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">8570</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="128878058_157434267">
+    <model>128878058_157434267</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">111635</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="140496666_748149334">
+    <model>140496666_748149334</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">6770</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="129951529_619742846">
+    <model>129951529_619742846</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">8600</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="116543198_925908923">
+    <model>116543198_925908923</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">109990</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="104250176_861527436">
+    <model>104250176_861527436</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">6200</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="137476360_530107523">
+    <model>137476360_530107523</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">20574</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="137624327_585827183">
+    <model>137624327_585827183</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">34565</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="107773169_062080978">
+    <model>107773169_062080978</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="18"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">7200</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="139716867_692147891">
+    <model>139716867_692147891</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">17890</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="121298510_856415997">
+    <model>121298510_856415997</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">16480</cityprice>
+    </cityprices>
+  </offer>
+  <offer sku="121977772_508394231">
+    <model>121977772_508394231</model>
+    <brand>ZETA</brand>
+    <availabilities>
+      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
+    </availabilities>
+    <cityprices>
+      <cityprice cityId="351010000">93295</cityprice>
+    </cityprices>
+  </offer>
+</offers>
