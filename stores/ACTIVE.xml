@@ -1,193 +1,281 @@
 <?xml version='1.0' encoding='utf-8'?>
-<offers>
-  <offer sku="108527714_987590276">
-    <model>108527714_987590276</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">850</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="129854876_046793875">
-    <model>129854876_046793875</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">500</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="122234374_995478824">
-    <model>122234374_995478824</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">995</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="131436252_767497582">
-    <model>131436252_767497582</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">15</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="118735468_394348341">
-    <model>118735468_394348341</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">500</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="115222548_536705006">
-    <model>115222548_536705006</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">800</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="107575901_627878907">
-    <model>107575901_627878907</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">477</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="128878058_157434267">
-    <model>128878058_157434267</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">995</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="106897605_702572474">
-    <model>106897605_702572474</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">810</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="136130168_736735899">
-    <model>136130168_736735899</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">379</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="136131982_194706051">
-    <model>136131982_194706051</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">500</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="121362376_462016645">
-    <model>121362376_462016645</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">959</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="135065121_774412695">
-    <model>135065121_774412695</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">895</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="106897600_250164317">
-    <model>106897600_250164317</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">895</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="121298510_856415997">
-    <model>121298510_856415997</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">800</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="137768405_482106255">
-    <model>137768405_482106255</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">900</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="121240570_524101372">
-    <model>121240570_524101372</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">84</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="119304315_768362250">
-    <model>119304315_768362250</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">995</cityprice>
-    </cityprices>
-  </offer>
-  <offer sku="119304316_998654304">
-    <model>119304316_998654304</model>
-    <brand>ZETA Караганда</brand>
-    <availabilities>
-      <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3"/>
-    </availabilities>
-    <cityprices>
-      <cityprice cityId="351010000">995</cityprice>
-    </cityprices>
-  </offer>
-</offers>
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-21 00:06">
+  <company>30291358</company>
+  <merchantid>30291358</merchantid>
+  <offers>
+    <offer sku="131436252">
+      <model>Стол компьютерный ZETA Стк-11, 100х57x75 см, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">16865</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="106897600">
+      <model>ЗМИ ВГВ22М; Валенсия 22М, металл, 31x162 см, черный</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">17905</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="115222537">
+      <model>Распашной шкаф ZETA ШК 1, 160x205х52 см, светло-коричневый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">106800</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="115222548">
+      <model>Стол письменный ZETA Токио, 86х50x75 см, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">18720</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="129149281">
+      <model>Распашной шкаф ZETA ШК 8 (Кул-125/1), 80x200х50 см, светло-коричневый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">53290</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="137768405">
+      <model>Стол письменный СВ Мебель Денвер 1, 90х50x75.4 см, графит</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">19890</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="144324884">
+      <model>Компьютерное кресло ZETA 702, черный</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">25893</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="146347220">
+      <model>Вешалка напольная Авиньон ИМП-ТВ-129648, ЛДСП, 90x221.6 см, графит, коричневый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">70200</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="119985746">
+      <model>Обеденный стол ZETA Вьетнам, 150х80x75 см, дерево, коричневый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">97514</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="137476360">
+      <model>Стул ZETA Стул мод D-859 бежев. (ВИ), бежевый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">20474</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="104250176">
+      <model>ZETA таз Хендо МП-ТВ-946198 120 л</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">6100</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="129854876">
+      <model>Стол компьютерный ZETA СТК 1, 113х49x103 см, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">19905</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="116543198">
+      <model>Кухонный гарнитур ZETA КГ-2, 200x156.2х60 см, ЛДСП, бежевый, темно-коричневый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">123210</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="139097882">
+      <model>Стул ZETA SC-017 серебристый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="13.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">17390</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="101580645">
+      <model>Вешалка напольная ЗМИ Радуга 1 ВНП 298, металл, 82x150 см, черный</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">9387</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="140496666">
+      <model>Ортопедическая подушка ZETA 40x60 см, холлофайбер</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">8032</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="131805176">
+      <model>Кухонный гарнитур Денвер, 200x214.2х60 см, ЛДСП, белый, коричневый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">98398</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="121977772">
+      <model>Кухонный гарнитур ZETA КГ-9, 200x214х60 см, ЛДСП, серый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">96210</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="135065121">
+      <model>Вешалка напольная ЗМИ Римини 2М, металл, 47x114 см, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">15899</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="122234374">
+      <model>Кухонный гарнитур ZETA , 120x156.2х60 см, ЛДСП, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">83890</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="16700605">
+      <model>Стул ZETA Кантри, 88x49x45 см, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">10404</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="121298510">
+      <model>Обеденный стол ZETA СО 1, 80х60x60 см, ЛДСП, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">16380</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="119304316">
+      <model>Кухонный гарнитур ZETA Токио, 160x214.2х60 см, ЛДСП, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">104490</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="130769459">
+      <model>Тумба офисная СВ Мебель ТБ 13 , 42x60x55 см колесики</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">17290</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="136130168">
+      <model>Стол письменный ZETA без ящиков МС Токио, 75х52x75 см, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">12900</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="108527714">
+      <model>Вешалка напольная ЗМИ Римини 2М ВКР2М ГР, металл, 47x114 см, графит</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">16749</cityprice>
+      </cityprices>
+    </offer>
+  </offers>
+</kaspi_catalog>
