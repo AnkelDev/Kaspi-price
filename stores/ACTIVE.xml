@@ -8,7 +8,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">16865</cityprice>
@@ -19,7 +19,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">17905</cityprice>
@@ -40,7 +40,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">18720</cityprice>
@@ -61,7 +61,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">19890</cityprice>
@@ -122,7 +122,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">19905</cityprice>
@@ -133,7 +133,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">123210</cityprice>
@@ -174,7 +174,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">98398</cityprice>
@@ -185,7 +185,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">96210</cityprice>
@@ -196,7 +196,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">15899</cityprice>
@@ -207,7 +207,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">83890</cityprice>
@@ -228,7 +228,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">16380</cityprice>
@@ -239,7 +239,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">104490</cityprice>
@@ -260,7 +260,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">12900</cityprice>
@@ -271,7 +271,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">16749</cityprice>
