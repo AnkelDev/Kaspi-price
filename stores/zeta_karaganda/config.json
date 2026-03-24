@@ -8,6 +8,6 @@
     "merchant_name": "zeta караганда",
     "use_stocks": true,
     "change_price": true,
-    "price_step": null,
+    "price_step": 5,
     "min_margin_percent": null
 }
