@@ -7,7 +7,7 @@
     "github_branch": "main",
     "merchant_name": "zeta караганда",
     "use_stocks": true,
-    "change_price": null,
+    "change_price": true,
     "price_step": null,
     "min_margin_percent": null
 }
