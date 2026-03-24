@@ -6,7 +6,7 @@
     "github_path": "stores/zeta_karaganda/data.xml",
     "github_branch": "main",
     "merchant_name": "zeta караганда",
-    "use_stocks": null,
+    "use_stocks": true,
     "change_price": null,
     "price_step": null,
     "min_margin_percent": null
