@@ -1,0 +1,13 @@
+{
+    "login": "",
+    "password": "",
+    "github_owner": "AnkelDev",
+    "github_repo": "Kaspi-price",
+    "github_path": "stores/test.xml",
+    "github_branch": "main",
+    "merchant_name": "test",
+    "use_stocks": null,
+    "change_price": null,
+    "price_step": null,
+    "min_margin_percent": null
+}
