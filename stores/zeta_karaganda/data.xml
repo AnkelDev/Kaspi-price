@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-24 17:53">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-26 11:32">
   <company>30291358</company>
   <merchantid>30291358</merchantid>
   <offers>
@@ -308,16 +308,6 @@
         <cityprice cityId="351010000">9920</cityprice>
       </cityprices>
     </offer>
-    <offer sku="130769459_491522713">
-      <model>Тумба офисная СВ Мебель ТБ 13 , 42x60x55 см колесики</model>
-      <brand>sv-mebel-</brand>
-      <availabilities>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
-      </availabilities>
-      <cityprices>
-        <cityprice cityId="351010000">17385</cityprice>
-      </cityprices>
-    </offer>
     <offer sku="139716867_692147891">
       <model>Стул ZETA Cтул мод D859 пласт. бел. (ВИ), белый</model>
       <brand>zeta</brand>
@@ -466,7 +456,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">20569</cityprice>
+        <cityprice cityId="351010000">21950</cityprice>
       </cityprices>
     </offer>
     <offer sku="493404427">
@@ -484,7 +474,7 @@
       <model>Вешалка напольная ZETA Денвер, ЛДСП, 100x200 см, белый</model>
       <brand>zeta</brand>
       <availabilities>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">34400</cityprice>
@@ -536,7 +526,7 @@
       <brand>zeta</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
-        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">20500</cityprice>
@@ -662,16 +652,6 @@
         <cityprice cityId="351010000">6660</cityprice>
       </cityprices>
     </offer>
-    <offer sku="129056818_544014054">
-      <model>Табурет ZETA Табурет "Башня" , 43x34x35 см, черный, белый</model>
-      <brand>zeta</brand>
-      <availabilities>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="4.0"/>
-      </availabilities>
-      <cityprices>
-        <cityprice cityId="351010000">8680</cityprice>
-      </cityprices>
-    </offer>
     <offer sku="129951529_619742846">
       <model>ZETA контейнер Контейнер 82 л пищ. с крышкой пищ. (на колесиках) м/п, 68x48x40 см, пластик</model>
       <brand>zeta</brand>
@@ -710,7 +690,7 @@
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">180995</cityprice>
+        <cityprice cityId="351010000">104400</cityprice>
       </cityprices>
     </offer>
     <offer sku="136130168_736735899">
@@ -773,7 +753,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">11985</cityprice>
+        <cityprice cityId="351010000">9970</cityprice>
       </cityprices>
     </offer>
     <offer sku="146347220_867901025">
@@ -1008,7 +988,7 @@
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">83985</cityprice>
+        <cityprice cityId="351010000">83895</cityprice>
       </cityprices>
     </offer>
     <offer sku="115222094_319921851">
@@ -1096,16 +1076,6 @@
         <cityprice cityId="351010000">4800</cityprice>
       </cityprices>
     </offer>
-    <offer sku="882095938">
-      <model>Табурет ZETA Табурет мягкий, 50x36x36 см, темно-серый 1 шт.</model>
-      <brand>zeta</brand>
-      <availabilities>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
-      </availabilities>
-      <cityprices>
-        <cityprice cityId="351010000">9520</cityprice>
-      </cityprices>
-    </offer>
     <offer sku="115222548_536705006">
       <model>Стол письменный ZETA Токио, 86х50x75 см, белый</model>
       <brand>zeta</brand>
@@ -1154,7 +1124,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">99895</cityprice>
+        <cityprice cityId="351010000">77975</cityprice>
       </cityprices>
     </offer>
     <offer sku="374258201">
