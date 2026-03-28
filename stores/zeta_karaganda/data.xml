@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-28 23:06">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-28 23:30">
   <company>30291358</company>
   <merchantid>30291358</merchantid>
   <offers>
@@ -20,7 +20,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">34560</cityprice>
+        <cityprice cityId="351010000">33405</cityprice>
       </cityprices>
     </offer>
     <offer sku="332861773">
@@ -415,7 +415,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">24994</cityprice>
+        <cityprice cityId="351010000">52395</cityprice>
       </cityprices>
     </offer>
     <offer sku="737530336">
@@ -528,7 +528,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">67665</cityprice>
+        <cityprice cityId="351010000">56400</cityprice>
       </cityprices>
     </offer>
     <offer sku="137779708_029609903">
@@ -598,7 +598,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">68961</cityprice>
+        <cityprice cityId="351010000">68963</cityprice>
       </cityprices>
     </offer>
     <offer sku="116543198_925908923">
@@ -999,7 +999,7 @@
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">20000</cityprice>
+        <cityprice cityId="351010000">22460</cityprice>
       </cityprices>
     </offer>
     <offer sku="108527714_987590276">
