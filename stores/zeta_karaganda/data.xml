@@ -182,7 +182,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">10900</cityprice>
+        <cityprice cityId="351010000">10000</cityprice>
       </cityprices>
     </offer>
     <offer sku="163831154">
@@ -214,7 +214,7 @@
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">17706</cityprice>
+        <cityprice cityId="351010000">19895</cityprice>
       </cityprices>
     </offer>
     <offer sku="080744500">
@@ -234,7 +234,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">56030</cityprice>
+        <cityprice cityId="351010000">56400</cityprice>
       </cityprices>
     </offer>
     <offer sku="140873451_271154644">
@@ -334,7 +334,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">11400</cityprice>
+        <cityprice cityId="351010000">6500</cityprice>
       </cityprices>
     </offer>
     <offer sku="135065121_774412695">
@@ -345,7 +345,7 @@
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">15899</cityprice>
+        <cityprice cityId="351010000">17370</cityprice>
       </cityprices>
     </offer>
     <offer sku="868084825">
@@ -415,7 +415,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">52300</cityprice>
+        <cityprice cityId="351010000">28770</cityprice>
       </cityprices>
     </offer>
     <offer sku="737530336">
@@ -486,7 +486,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">19800</cityprice>
+        <cityprice cityId="351010000">15000</cityprice>
       </cityprices>
     </offer>
     <offer sku="148668300_301756950">
@@ -578,7 +578,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="5.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">29878</cityprice>
+        <cityprice cityId="351010000">21835</cityprice>
       </cityprices>
     </offer>
     <offer sku="104250176_861527436">
@@ -588,7 +588,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="10.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">7019</cityprice>
+        <cityprice cityId="351010000">6500</cityprice>
       </cityprices>
     </offer>
     <offer sku="136554327_730058562">
@@ -608,7 +608,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">149000</cityprice>
+        <cityprice cityId="351010000">136900</cityprice>
       </cityprices>
     </offer>
     <offer sku="847473190">
@@ -690,7 +690,7 @@
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">12900</cityprice>
+        <cityprice cityId="351010000">13135</cityprice>
       </cityprices>
     </offer>
     <offer sku="101580645_516717258">
@@ -700,7 +700,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">9282</cityprice>
+        <cityprice cityId="351010000">10430</cityprice>
       </cityprices>
     </offer>
     <offer sku="974327322">
@@ -722,7 +722,7 @@
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">24005</cityprice>
+        <cityprice cityId="351010000">21810</cityprice>
       </cityprices>
     </offer>
     <offer sku="140496666_748149334">
@@ -752,7 +752,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">83845</cityprice>
+        <cityprice cityId="351010000">78000</cityprice>
       </cityprices>
     </offer>
     <offer sku="128878058_157434267">
@@ -804,7 +804,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">12790</cityprice>
+        <cityprice cityId="351010000">9000</cityprice>
       </cityprices>
     </offer>
     <offer sku="16700605_675515322">
@@ -814,7 +814,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="6.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">10355</cityprice>
+        <cityprice cityId="351010000">11560</cityprice>
       </cityprices>
     </offer>
     <offer sku="116537522_046375692">
@@ -854,7 +854,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">12400</cityprice>
+        <cityprice cityId="351010000">8000</cityprice>
       </cityprices>
     </offer>
     <offer sku="352386622">
@@ -946,7 +946,7 @@
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">177900</cityprice>
+        <cityprice cityId="351010000">115150</cityprice>
       </cityprices>
     </offer>
     <offer sku="749133109">
@@ -999,7 +999,7 @@
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">22365</cityprice>
+        <cityprice cityId="351010000">21000</cityprice>
       </cityprices>
     </offer>
     <offer sku="108527714_987590276">
@@ -1010,7 +1010,7 @@
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="3.0"/>
       </availabilities>
       <cityprices>
-        <cityprice cityId="351010000">16749</cityprice>
+        <cityprice cityId="351010000">16850</cityprice>
       </cityprices>
     </offer>
     <offer sku="131805176_525042943">
