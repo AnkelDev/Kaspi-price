@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-28 23:47">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-03-29 00:47">
   <company>30291358</company>
   <merchantid>30291358</merchantid>
   <offers>
@@ -969,17 +969,6 @@
         <cityprice cityId="351010000">11560</cityprice>
       </cityprices>
     </offer>
-    <offer sku="122234374_995478824">
-      <model>Кухонный гарнитур ZETA , 120x156.2х60 см, ЛДСП, белый</model>
-      <brand>zeta</brand>
-      <availabilities>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
-        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
-      </availabilities>
-      <cityprices>
-        <cityprice cityId="351010000">84465</cityprice>
-      </cityprices>
-    </offer>
     <offer sku="115222094_319921851">
       <model>Кухонный гарнитур ZETA Токио, 200x210х60 см, ЛДСП, белый, светло-коричневый</model>
       <brand>zeta</brand>
@@ -1185,6 +1174,17 @@
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">104585</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="122234374_995478824">
+      <model>Кухонный гарнитур ZETA , 120x156.2х60 см, ЛДСП, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">84465</cityprice>
       </cityprices>
     </offer>
   </offers>
