@@ -314,7 +314,7 @@
       <brand>turan-home</brand>
       <availabilities>
         <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
-        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="0"/>
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">108100</cityprice>
