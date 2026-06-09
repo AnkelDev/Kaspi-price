@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-06-09 11:09">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-06-09 11:51">
   <company>30291358</company>
   <merchantid>30291358</merchantid>
   <offers>
@@ -313,7 +313,7 @@
       <model>Кухонный гарнитур TURAN HOME , 160x220х44 см, ЛДСП, белый</model>
       <brand>turan-home</brand>
       <availabilities>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="1.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
@@ -773,7 +773,7 @@
       <model>Табурет ИМП-ТВ-056116, 45x35x35 см, бежевый</model>
       <brand/>
       <availabilities>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="20.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="0.0"/>
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="8.0"/>
       </availabilities>
       <cityprices>
@@ -869,7 +869,7 @@
       <model>Стол компьютерный СВ Мебель СТК 10 (Кул-107), 120х60x75.5 см, светло-коричневый</model>
       <brand>sv-mebel-</brand>
       <availabilities>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="0.0"/>
         <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
       </availabilities>
       <cityprices>
@@ -1002,6 +1002,26 @@
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">84920</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="153893091_004091786">
+      <model>Офисное кресло ZETA WM1001-CB, черный</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="20.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">16980</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="156854144_057180501">
+      <model>Офисное кресло ZETA WM1002-CB, черный</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="20.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">23395</cityprice>
       </cityprices>
     </offer>
   </offers>
