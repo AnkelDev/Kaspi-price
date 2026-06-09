@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-06-09 12:35">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://kaspi.kz/kaspishopping.xsd" date="2026-06-09 13:06">
   <company>30291358</company>
   <merchantid>30291358</merchantid>
   <offers>
@@ -876,17 +876,6 @@
         <cityprice cityId="351010000">27420</cityprice>
       </cityprices>
     </offer>
-    <offer sku="161688799_788916219">
-      <model>Стол компьютерный ZETA СТК 22, 130х65x75 см, белый</model>
-      <brand>zeta</brand>
-      <availabilities>
-        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
-        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="2.0"/>
-      </availabilities>
-      <cityprices>
-        <cityprice cityId="351010000">25550</cityprice>
-      </cityprices>
-    </offer>
     <offer sku="115972872_269601260">
       <model>Обувница ЗМИ 65x30x48 см, металл</model>
       <brand>zmi</brand>
@@ -1022,6 +1011,17 @@
       </availabilities>
       <cityprices>
         <cityprice cityId="351010000">23395</cityprice>
+      </cityprices>
+    </offer>
+    <offer sku="161688799_788916219">
+      <model>Стол компьютерный ZETA СТК 22, 130х65x75 см, белый</model>
+      <brand>zeta</brand>
+      <availabilities>
+        <availability available="yes" storeId="30291358_pp1" preOrder="0" stockCount="2.0"/>
+        <availability available="yes" storeId="30291358_PP2" preOrder="0" stockCount="1.0"/>
+      </availabilities>
+      <cityprices>
+        <cityprice cityId="351010000">25550</cityprice>
       </cityprices>
     </offer>
   </offers>
